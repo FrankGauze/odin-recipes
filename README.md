@@ -1,3 +1,3 @@
 # odin-recipes
 
- This website is a learning project from the TOP curriculum, meant to showcase a few recipes and display my developing skills with markup languages. Any visitors or readers of said recipes are strongly discouraged from following them or taking anyyhting published on the website as actual advise. This website is for entertainment purposes only.
+This website is a learning project from the TOP curriculum, aimed at showcasing recipes and highlighting proficiency in markup languages. Upon completion, the project will demonstrate skills in HTML and markup language development. Visitors are advised against following the recipes as they are for entertainment purposes only.
