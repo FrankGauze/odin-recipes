@@ -39,6 +39,7 @@ a:hover {
 ul {
     padding-left: 0px;
     margin: auto;
+    list-style-type: none;
 }
 
 ul li {
