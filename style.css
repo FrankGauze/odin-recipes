@@ -5,6 +5,9 @@ body {
     font-family: cursive;
     font-size: 1rem;
     text-align: center;
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 10px;
 }
 
 h1 {
@@ -20,6 +23,8 @@ h2 {
 p {
     font-size: 1.125rem;
     text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 a {
@@ -29,4 +34,18 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+ul {
+    padding-left: 0px;
+    margin: auto;
+}
+
+ul li {
+    padding: 0 20px;
+}
+
+ol li {
+    text-align: justify;
+    padding-right: 35px;
 }
